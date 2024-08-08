@@ -1,5 +1,5 @@
 # Note:
-# Use something like this: conda create --name modernaipro python=3.11 --file requirements.txt
+# Use something like this: conda create --name  python=3.11 --file requirements.txt
 # conda activate modernaipro
 
 from langchain_community.llms import Ollama
